@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\HEPHAISTOS\Documents\Mastermind\src\main.c(570,85): warning C4020: 'verifyCode' : paramètres réels trop nombreux
+C:\Users\HEPHAISTOS\Documents\Mastermind\src\main.c(632,8): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\HEPHAISTOS\Documents\Mastermind\src\main.c(654,1): warning C4029: la déclaration de la liste de paramètres formels est différente de la définition
+  Mastermind.vcxproj -> C:\Users\HEPHAISTOS\Documents\Mastermind\x64\Debug\Mastermind.exe

@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\Visual Studio 2022\Mastermind\x64\Debug\Mastermind.exe
+C:\Users\HEPHAISTOS\Documents\Mastermind\x64\Debug\Mastermind.exe
